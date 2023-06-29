@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "999cookingrecipes",	  
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
